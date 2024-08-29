@@ -26,6 +26,7 @@ Automated Trading system without human intervention. #TradingBot
 - For generating BUY/SELL strategies, you have to code using AFL language in amibroker software and we do not provide code for generating BUY/SELL signal since it is a confidencial matter
 - if you are beginner, you can use indiators to generate signal(for this basic AFL coding knowlegde enough)
 - finally create a demo account at shoonya-finvasia broker to execute trades.
+  
 
 -------- "How to use bot?"----------------------------
 
@@ -46,4 +47,5 @@ Automated Trading system without human intervention. #TradingBot
 ### Note:
 * Learner's do not invest money  without the knowledge of Stock market, market condition and risk management.
 * For educational purpose, use paper trading options provided in the bot, do not us place order option.
+* any queries or need full project?, feel free to mail at  vivekvsvat@gmail.com
 
